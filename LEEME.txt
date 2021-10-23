@@ -1,0 +1,9 @@
+Proyecto Top 10 de frameworks 2021
+
+Ejecutar el proyecto utilizando el comando ng serve -o
+se debe tener instalado node.js y angular cli para la ejecucion del proyecto
+Versiones utilizadas
+Angular CLI: 12.2.11
+Node: 14.18.0
+Package Manager: npm 6.14.15
+OS: win32 x64
